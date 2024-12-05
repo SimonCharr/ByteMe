@@ -36,7 +36,6 @@ out/
 
 # Gatsby files
 .cache/
-public/
 
 # Create React App files
 build/
